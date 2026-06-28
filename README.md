@@ -117,10 +117,17 @@ The report documents the project methodology, analysis, dashboard, findings, and
 - Developers generally report moderate to high job satisfaction.
 
 ---
+## 📁 Repository Structure
 
-# 📁 Repository Structure
-text StackOverflow-Developer-Survey-Analysis/ │ ├── README.md ├── Dashboard.png ├── survey_data_updated_5.csv ├── StackOverflow_Developer_Survey_Analysis.ipynb ├── StackOverflow_Developer_Survey_Dashboard.pbix ├── StackOverflow_Developer_Survey_Dashboard.pdf └── StackOverflow_Developer_Survey_Analysis_Report.pptx
----
+```text
+StackOverflow-Developer-Survey-Analysis/
+│
+├── README.md
+├── StackOverflow_Developer_Survey_Analysis.ipynb
+├── StackOverflow_Developer_Survey_Analysis_Report.pptx
+├── StackOverflow_Developer_Survey_Dashboard.pbix
+└── StackOverflow_Developer_Survey_Dashboard.pdf
+```
 
 # 🔮 Future Improvements
 
