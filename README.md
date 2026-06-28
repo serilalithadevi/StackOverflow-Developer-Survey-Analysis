@@ -90,7 +90,7 @@ The notebook contains the complete workflow including:
 - Data Visualization
 - Insights
 
-📘 **Notebook:** [View Notebook](https://github.com/serilalithadevi/StackOverflow-Developer-Survey-Analysis/blob/main/notebooks_StackOverflow_Developer_Survey_Analysis.ipynb)
+📘 **Notebook:** [View Notebook](https://github.com/serilalithadevi/StackOverflow-Developer-Survey-Analysis/blob/main/StackOverflow_Developer_Survey_Analysis.ipynb)
 
 > **Note:** GitHub renders Jupyter Notebooks directly in the browser. If the notebook does not load completely because of its size, click **Download raw file** to open it locally in Jupyter Notebook or JupyterLab.
 
