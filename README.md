@@ -25,7 +25,6 @@ This project demonstrates an end-to-end data analytics workflow, including data 
 # 📊 Dashboard Preview
 
 - 📊 [View Dashboard PDF](https://github.com/serilalithadevi/StackOverflow-Developer-Survey-Analysis/blob/main/StackOverflow_Developer_Survey_Dashboard.pdf)
-
 ---
 
 # 🚀 Project Highlights
